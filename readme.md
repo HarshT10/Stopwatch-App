@@ -2,6 +2,10 @@
 
 - This is a Stopwatch app.
 
+[Netlify](https://stopwatch-harshcodes.netlify.app/)
+
+![](https://img.shields.io/badge/Netlify-Link-green)
+
 ![Stopwatch](/images/stopped.png)
 
 ---
